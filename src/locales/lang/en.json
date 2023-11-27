@@ -1,0 +1,24 @@
+{
+    "nav": {
+        "home": "Home",
+        "add": "Aggiungi animale",
+        "book": "Agenda",
+        "list": "Lista clienti",
+        "listAnimal": "Lista animali",
+        "animalMenu":{
+            "label": "Menu animali",
+            "addAnimal": "Aggiungi animale",
+            "listAnimal": "Lista animali"
+        },
+        "customerMenu": {
+            "label": "Menu clienti",
+            "addCustomer": "Aggiungi cliente",
+            "listCustomer": "Lista clienti",
+            "collapse": {
+                "collapse": "Group collapse menu",
+                "item1": "Group collapse menu item 1",
+                "item2": "Group collapse menu item 2"
+            }
+        }
+    }
+}
